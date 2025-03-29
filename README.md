@@ -65,10 +65,6 @@ Este proyecto es un sistema simple para gestionar calificaciones de estudiantes.
 
 - Finaliza la ejecución del programa.
 
-## Contribuciones
-
-Si deseas contribuir a este proyecto, puedes clonar el repositorio, realizar tus cambios y enviar un pull request.
-
 ## Licencia
 
 Este proyecto está bajo la licencia MIT.
